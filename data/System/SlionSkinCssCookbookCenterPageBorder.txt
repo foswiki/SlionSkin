@@ -1,4 +1,4 @@
-%META:TOPICINFO{author="ProjectContributor" date="1141771402" format="1.1" version="$Rev: 1340 $"}%
+%META:TOPICINFO{author="ProjectContributor" date="1407730685" format="1.1" version="1"}%
 
 ---+!! SlionSkinCssCookbook Recipe: Center the page with a border
 
